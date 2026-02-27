@@ -318,7 +318,7 @@ Screenshots
 dashboard-1.png 
 ### New payment upadation and Load More button overview
 dashboard-2.png
-(./assets/dashboard.png)
+(./assests/dashboard.png)
 
 Author
 
